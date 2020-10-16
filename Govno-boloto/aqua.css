@@ -1,0 +1,38 @@
+.body {
+background: #ffffff url(images/bg.jpg);
+width: 1920PX;
+height: 1080px;
+}
+
+p{
+margin-left: 200px;	
+}
+
+a {
+	margin: 5px;
+	color: #196cbf;
+ }
+ a:link {
+    color: #000000; 
+    padding: 2px; 
+   }
+   a:hover { 
+    color: #000000;  
+   } 
+ }
+   .thumb img  {
+   
+   }
+   .thumb{
+   	 padding-top:100px;
+   	 padding-left: 400px;
+   }
+   .toper{
+   	top: 10px;
+   	position: absolute;
+   }
+
+   .toper1{
+   	top: 30px;
+   	position: absolute;
+   }

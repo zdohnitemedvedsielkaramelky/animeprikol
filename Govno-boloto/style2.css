@@ -1,0 +1,17 @@
+a {
+	margin: 5px;
+	color: #196cbf;
+ }
+ a:link {
+    color: #000000; 
+    padding: 2px; 
+   }
+   a:hover { 
+    color: #000000;  
+   } 
+ }
+.body {
+background: #ffffff url(images/bg.jpg);
+width: 1920PX;
+height: 1080px;
+}
